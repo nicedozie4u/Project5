@@ -53,4 +53,4 @@ Enter your password
 
 Test some mysql commnds.
 
-## Congrtultions.
+## Congratultions.
